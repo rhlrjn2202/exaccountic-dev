@@ -918,7 +918,7 @@ blockquote cite:before {
 .readon.consultant.paste-btn {
   font-weight: 500;
   padding: 15px 33px 15px 33px;
-  background-color: #4CAF50;
+  background-color: #BB0B0B;
   border-radius: 4px 4px 4px 4px;
 }
 .readon.consultant.paste-btn.more {
@@ -4272,7 +4272,7 @@ body .search-modal .close:hover {
 }
 .rs-services.style8 .flip-box-inner:hover .flip-box-wrap .back-front:before {
   background-color: transparent;
-  background-image: linear-gradient(90deg, #4caf50 0%, #4caf50 58%);
+  background-image: linear-gradient(90deg, #BB0B0B 0%, #BB0B0B 58%);
   border-radius: 4px 4px 4px 4px;
 }
 .rs-services.style8 .flip-box-inner:hover .flip-box-wrap .back-front .back-front-content .back-title-part .back-title {
