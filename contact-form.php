@@ -5,7 +5,7 @@ $email= $_POST['email'];
 $phone= $_POST['phone'];    
 $message= $_POST['message'];
 
-$to = "rhlrjn2202@gmail.com";
+$to = "info@exaccountic.com";
 $subject = "New Message from Website";
 
 // The following text will be sent
